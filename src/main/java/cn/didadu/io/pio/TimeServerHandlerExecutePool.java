@@ -1,4 +1,4 @@
-package cn.didadu.netty.pio;
+package cn.didadu.io.pio;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ExecutorService;

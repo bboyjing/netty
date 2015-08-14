@@ -1,4 +1,4 @@
-package cn.didadu.netty.pio;
+package cn.didadu.io.bio;
 
 import java.io.BufferedReader;
 import java.io.IOException;

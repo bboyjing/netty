@@ -1,4 +1,4 @@
-package cn.didadu.netty.nio;
+package cn.didadu.io.nio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
