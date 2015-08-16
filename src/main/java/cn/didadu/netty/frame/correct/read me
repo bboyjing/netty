@@ -1,0 +1,2 @@
+通过 StringDecoder、LineBasedFrameDecoder解决TCP粘包、拆包问题
+LineBasedFrameDecoder + StringDecoder组合就是按行切换的文本解码器
